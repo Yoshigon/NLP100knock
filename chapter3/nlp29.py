@@ -1,4 +1,5 @@
 # nlp28.pyより、ファイル名はFlag_of_the_United_Kingdom.svg
+# 取得までのコードは冗長のため省略
 
 import requests
 
